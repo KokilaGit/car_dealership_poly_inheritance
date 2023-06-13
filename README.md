@@ -2,7 +2,7 @@
 
 2. **Define subclasses for Car:** Next, define subclasses for specific types of cars. Create subclasses for `Sedan` and `SUV`. These classes should extend the `Car` class and call the parent constructor to initialize the common properties. (super())
 
-3. **Create the CarDealer class:** Now, in the `CarDealer` class add an `ArrayList` of `Car` objects to represent the `inventory`.
+3. **Create the CarDealer class:** Now, in the `CarDealership` class add an `ArrayList` of `Car` objects to represent the `inventory`.
 
 4. **Add methods to CarDealer:** Add the following methods to the `CarDealer` class:
     - An `addCar()` method that takes a `Car` object and adds it to the `inventory`.
